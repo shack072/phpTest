@@ -4,5 +4,6 @@
 </HEAD>
 <BODY>
 Hello World
+<php echo "hello" ?>
 </BODY>
 </HTML>
